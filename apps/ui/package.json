@@ -1,4 +1,7 @@
 {
   "name": "@cloudretail/ui",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
